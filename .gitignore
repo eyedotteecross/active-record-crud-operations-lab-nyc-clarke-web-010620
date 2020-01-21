@@ -43,3 +43,8 @@ jspm_packages
 /log/*
 !/log/.keep
 /tmp
+Gemfile.lock
+db/test.sqlite
+db/schema.rb
+db/migrate/20200121134407_create_movies.rb
+db/development.sqlite
